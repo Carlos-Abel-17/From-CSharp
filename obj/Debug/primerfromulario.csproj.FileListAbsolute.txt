@@ -1,0 +1,10 @@
+C:\Users\miky1\Desktop\proyectos\Llapanatic-PNP\proyectoCSharp\primerfromulario\bin\Debug\primerfromulario.exe.config
+C:\Users\miky1\Desktop\proyectos\Llapanatic-PNP\proyectoCSharp\primerfromulario\bin\Debug\primerfromulario.exe
+C:\Users\miky1\Desktop\proyectos\Llapanatic-PNP\proyectoCSharp\primerfromulario\bin\Debug\primerfromulario.pdb
+C:\Users\miky1\Desktop\proyectos\Llapanatic-PNP\proyectoCSharp\primerfromulario\obj\Debug\primerfromulario.csproj.AssemblyReference.cache
+C:\Users\miky1\Desktop\proyectos\Llapanatic-PNP\proyectoCSharp\primerfromulario\obj\Debug\primerfromulario.Form1.resources
+C:\Users\miky1\Desktop\proyectos\Llapanatic-PNP\proyectoCSharp\primerfromulario\obj\Debug\primerfromulario.Properties.Resources.resources
+C:\Users\miky1\Desktop\proyectos\Llapanatic-PNP\proyectoCSharp\primerfromulario\obj\Debug\primerfromulario.csproj.GenerateResource.cache
+C:\Users\miky1\Desktop\proyectos\Llapanatic-PNP\proyectoCSharp\primerfromulario\obj\Debug\primerfromulario.csproj.CoreCompileInputs.cache
+C:\Users\miky1\Desktop\proyectos\Llapanatic-PNP\proyectoCSharp\primerfromulario\obj\Debug\primerfromulario.exe
+C:\Users\miky1\Desktop\proyectos\Llapanatic-PNP\proyectoCSharp\primerfromulario\obj\Debug\primerfromulario.pdb
